@@ -1,4 +1,9 @@
-# hml-equation-parser
+# hml-equation-parser (Cleaner version)
+
+## Disclaimer
+
+I am not the original writer of this code. This fork was created so that scraping data (text, equations, etc.) becomes easier.
+The output created by this version will not function properly as webpage. Instead it will be used as a 'middle step' of converging hwp files into other formats. (In our case, json.)
 
 ## Usage
 
